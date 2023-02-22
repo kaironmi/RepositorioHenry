@@ -1,2 +1,2 @@
 # RepositorioHenry
-Mi primera homework
+Este es un ejemplo de Mi primera homework para subir un repositorio a Github
